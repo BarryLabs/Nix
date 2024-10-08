@@ -1,0 +1,7 @@
+{ state, ... }:
+
+{
+  system = {
+    stateVersion = state;
+  };
+}
